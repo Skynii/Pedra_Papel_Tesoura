@@ -18,7 +18,7 @@ function jogadaComputador(){
 
 
 
-//?Funçã para mostrar a escolha do player;
+//?Funçã para mostrar a escolha do player
 
 function game(playerChoice){
    const pcChoice = jogadaComputador();
