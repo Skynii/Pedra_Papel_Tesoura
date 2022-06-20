@@ -7,5 +7,5 @@ Jogar contra o computador o jogo de Pedra papel e tesoura. Exercitar metodos de 
 ## Cronograma:
 
 [x] Esboço HTML
-[] Estilização geral
-[] Jogabilidade
+[x] Estilização geral
+[x] Jogabilidade
